@@ -1,3 +1,2 @@
-# Labotart-Managment-System
-# Labotart-Managment-System
-# Labotart-Managment-System
+# Labotary-Managment-System
+
