@@ -1,0 +1,34 @@
+<style type="text/css">
+		#date_time
+        {
+            margin:15px;
+            color:Navy;
+            float:right;
+        }
+       
+        #abc
+        {
+            margin:15px;
+            color:Navy;
+            
+        }
+        #btn
+        {
+            float:right;
+        }
+
+        #majid
+        {
+            float: center;
+            border: solid;
+            margin: 20px;
+            padding: 20px;
+            
+        }
+
+        .hamza
+        {
+            text-align: center;
+        }
+        
+	</style>
